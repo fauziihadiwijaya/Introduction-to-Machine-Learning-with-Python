@@ -1,65 +1,34 @@
 # Introduction to Machine Learning with Python
 
-This repository contains chapter summaries, practical implementations, and visualizations based on the book:
+<img src="cover.jpg" width="300">
 
-**Introduction to Machine Learning with Python**  
-by Andreas C. Müller & Sarah Guido
+**Original Authors:** Andreas C. Müller & Sarah Guido
 
-The project was developed using **Google Colab** and uploaded to GitHub as interactive Jupyter notebooks.
-
----
-
-## Project Objectives
-
-- Understand core machine learning concepts
-- Implement models using Python and Scikit-Learn
-- Visualize model results
-- Build a structured learning portfolio
+This repository contains summaries, notebooks, and practical implementations based on the book *Introduction to Machine Learning with Python*.
 
 ---
 
 ## Chapters
 
-| No | Topic |
-|----|------|
-| 01 | Introduction |
-| 02 | Supervised Learning |
-| 03 | Unsupervised Learning |
-| 04 | Model Evaluation |
-| 05 | Pipelines |
-| 06 | Feature Engineering |
-| 07 | Working with Text Data |
-| 08 | Final Summary & Model Comparison |
+- 01 Introduction
+- 02 Supervised Learning
+- 03 Unsupervised Learning
+- 04 Model Evaluation
+- 05 Pipelines
+- 06 Feature Engineering
+- 07 Working with Text Data
+- 08 Final Summary
 
 ---
 
-## Tools & Libraries
+## Tools Used
 
 - Python
 - Google Colab
+- Scikit-Learn
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
-- Scikit-Learn
-
----
-
-## Highlights
-
-- Classification using KNN
-- Clustering with K-Means
-- Confusion Matrix Visualization
-- Pipeline Workflow
-- Feature Importance Analysis
-- Text Classification using Naive Bayes
-- Model Comparison Dashboard
-
----
-
-## Conclusion
-
-Machine learning combines data, algorithms, and evaluation techniques to create predictive systems. Proper preprocessing, model selection, and visualization are essential for good performance.
 
 ---
 
